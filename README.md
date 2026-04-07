@@ -16,7 +16,7 @@ A modern **dark-themed Kanban task manager** built using **React + Supabase**, i
 ---
 
 ## 📸 Screenshots
-<img width="1172" height="725" alt="task" src="https://github.com/user-attachments/assets/27d56d1f-5e81-4643-8dc7-cecce3db9dd3" />
+<img width="1172" height="725" alt="task" src="https://github.com/user-attachments/assets/51360a39-47ae-4f9c-be9e-04eda8dd8629" />
 
 ### 🏠 Dashboard
 
