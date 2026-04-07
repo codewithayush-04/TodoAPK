@@ -16,6 +16,7 @@ A modern **dark-themed Kanban task manager** built using **React + Supabase**, i
 ---
 
 ## 📸 Screenshots
+![Uploading task.jpg…]()
 
 ### 🏠 Dashboard
 
@@ -69,7 +70,7 @@ Future Requirements
 - **Drag & Drop**: react-beautiful-dnd
 
 ---
-
+```
 ## 📂 Project Structure
 src/
 ├── components/
@@ -79,7 +80,7 @@ src/
 ├── utils/
 
 ---
-```
+
 ## ⚙️ Setup (Supabase)
 
 1. Create a project on **Supabase**
@@ -106,7 +107,7 @@ npm install
 npm run dev
 npm run build
 npm run preview
-```
+
 🎨 UI Highlights
 	•	🌑 Modern dark/black theme
 	•	🧊 Glassmorphism design
@@ -118,7 +119,7 @@ npm run preview
 	•	📎 File attachments
 	•	🧠 AI-based task suggestions
 	•	📊 Analytics dashboard
-
+```
    👨‍💻 Author
 
 Ayush Gupta
