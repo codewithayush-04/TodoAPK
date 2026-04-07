@@ -1,5 +1,3 @@
-<img width="1251" height="569" alt="Screenshot 2026-04-07 at 9 08 12 PM" src="https://github.com/user-attachments/assets/3055ef08-c22e-49d0-b3b6-460ccfffb422" /># 🚀 Task Grid — Task Manager
-
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green?logo=supabase)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwindcss)
@@ -16,18 +14,15 @@ A modern **dark-themed Kanban task manager** built using **React + Supabase**, i
 ---
 
 ## 📸 Screenshots
-<img width="250" height="250" alt="task" src="https://github.com/user-attachments/assets/51360a39-47ae-4f9c-be9e-04eda8dd8629" />
+<img width="1172" height="725" alt="task" src="https://github.com/user-attachments/assets/51360a39-47ae-4f9c-be9e-04eda8dd8629" />
 
 ### 🏠 Dashborad
 
 Screenshots<img width="1172" height="725" alt="task" src="https://github.com/user-attachments/assets/51360a39-47ae-4f9c-be9e-04eda8dd8629" />
 
-
-
 ### 📋 Board View
 
-![Uploading Screenshot 2026-04-07 at 9.07.54 PM.png…]()
-
+<img width="1218" height="574" alt="Screenshot 2026-04-07 at 9 07 54 PM" src="https://github.com/user-attachments/assets/c86aa716-3d1f-487c-b208-725eaaebf8cf" />
 
 ### ➕ Add Task Modal
 
