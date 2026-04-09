@@ -1,5 +1,5 @@
 
-TODO APK
+TODO WEB APP
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green?logo=supabase)
