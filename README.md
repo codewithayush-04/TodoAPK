@@ -1,7 +1,11 @@
+
+TODO APK
+
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-green?logo=supabase)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwindcss)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 A modern **dark-themed Kanban task manager** built using **React + Supabase**, inspired by Trello. Designed for productivity, smooth UI/UX, and a strong developer portfolio.
 
